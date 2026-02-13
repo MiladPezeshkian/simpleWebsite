@@ -17,6 +17,7 @@ This project is built with:
 - **React** – UI library  
 - **shadcn-ui** – Component library  
 - **Tailwind CSS** – Utility-first CSS framework  
+- **SupaBase** – Back-end & DB   
 
 ---
 
