@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone [<YOUR_GIT_URL>](https://github.com/MiladPezeshkian/simpleWebsite)
+git clone https://github.com/MiladPezeshkian/simpleWebsite
 
 # 2. Navigate to the project directory
 cd simpleWebsite
