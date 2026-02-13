@@ -5,7 +5,7 @@
 A brief description of your project goes here.  
 Explain what the project does, its purpose, and the main features.
 
-**Project URL:** [https://your-project-url.dev/projects/REPLACE_WITH_PROJECT_ID](https://attenduok.netlify.app/login)
+**Project URL:** [URL](https://attenduok.netlify.app/login)
 ---
 
 ## 🛠️ Technologies Used
