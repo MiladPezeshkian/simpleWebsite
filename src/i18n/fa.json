@@ -1,0 +1,102 @@
+{
+  "app": {
+    "title": "دانشگاه کردستان",
+    "subtitle": "سیستم مدیریت حضور و غیاب"
+  },
+  "nav": {
+    "dashboard": "داشبورد",
+    "logout": "خروج",
+    "language": "English"
+  },
+  "auth": {
+    "login": "ورود",
+    "register": "ثبت‌نام",
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "name": "نام کامل",
+    "loginTitle": "خوش آمدید",
+    "loginSubtitle": "برای ورود به حساب خود وارد شوید",
+    "registerTitle": "ایجاد حساب",
+    "registerSubtitle": "ثبت‌نام به عنوان استاد",
+    "noAccount": "حساب ندارید؟",
+    "hasAccount": "حساب دارید؟",
+    "checkEmail": "ایمیل خود را برای دریافت لینک تأیید بررسی کنید."
+  },
+  "dashboard": {
+    "welcome": "خوش آمدید",
+    "myClasses": "کلاس‌های من",
+    "createClass": "ایجاد کلاس",
+    "noClasses": "هنوز کلاسی وجود ندارد",
+    "noClassesDesc": "برای شروع، اولین کلاس خود را ایجاد کنید.",
+    "students": "دانشجو",
+    "sessions": "جلسه"
+  },
+  "class": {
+    "name": "نام کلاس",
+    "code": "کد کلاس",
+    "term": "ترم",
+    "create": "ایجاد کلاس",
+    "edit": "ویرایش کلاس",
+    "delete": "حذف کلاس",
+    "deleteConfirm": "آیا از حذف این کلاس مطمئن هستید؟"
+  },
+  "students": {
+    "title": "دانشجویان",
+    "upload": "بارگذاری دانشجویان",
+    "uploadDesc": "یک فایل اکسل با ستون‌های: studentId, firstName, lastName, email (اختیاری) بارگذاری کنید",
+    "dragDrop": "فایل اکسل را اینجا بکشید و رها کنید، یا کلیک کنید برای انتخاب",
+    "preview": "پیش‌نمایش",
+    "confirm": "تأیید واردات",
+    "search": "جستجوی دانشجویان...",
+    "studentId": "شماره دانشجویی",
+    "firstName": "نام",
+    "lastName": "نام خانوادگی",
+    "email": "ایمیل",
+    "remove": "حذف",
+    "removeConfirm": "این دانشجو حذف شود؟",
+    "noStudents": "هنوز دانشجویی وجود ندارد",
+    "imported": "دانشجویان با موفقیت وارد شدند"
+  },
+  "sessions": {
+    "title": "جلسات",
+    "newSession": "جلسه جدید",
+    "date": "تاریخ",
+    "attendance": "حضور و غیاب",
+    "present": "حاضر",
+    "absent": "غایب",
+    "late": "تأخیری",
+    "save": "ذخیره حضور و غیاب",
+    "noSessions": "هنوز جلسه‌ای وجود ندارد",
+    "markAttendance": "ثبت حضور و غیاب"
+  },
+  "grades": {
+    "title": "نمرات",
+    "midterm": "میان‌ترم",
+    "final": "پایان‌ترم",
+    "activity": "فعالیت",
+    "total": "جمع",
+    "save": "ذخیره نمرات",
+    "noGrades": "هنوز نمره‌ای ثبت نشده"
+  },
+  "reports": {
+    "title": "گزارش‌ها",
+    "export": "خروجی به اکسل",
+    "totalStudents": "تعداد کل دانشجویان",
+    "avgAttendance": "میانگین حضور",
+    "avgGrade": "میانگین نمره",
+    "attendanceTrend": "روند حضور",
+    "gradeDistribution": "توزیع نمرات"
+  },
+  "common": {
+    "save": "ذخیره",
+    "cancel": "لغو",
+    "delete": "حذف",
+    "edit": "ویرایش",
+    "loading": "در حال بارگذاری...",
+    "error": "خطایی رخ داد",
+    "success": "موفقیت",
+    "confirm": "تأیید",
+    "back": "بازگشت",
+    "actions": "عملیات"
+  }
+}
